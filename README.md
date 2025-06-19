@@ -10,7 +10,6 @@
 
 ### 🚀 About Me
 - 🧠 Interning @ Swifta as a Java backend developer
-- 🔨 Currently building **Invoisecure** (fraud detection platform)
 - 🎯 Goals: Become a full-stack engineer & skilled networker
 - 💬 Ask me about: Spring Boot, REST, MySQL, DTOs
 
