@@ -11,7 +11,7 @@
 ### 🚀 About Me
 - 🧠 Interning @ Swifta as a Java backend developer
 - 🎯 Goals: Become a full-stack engineer & skilled networker
-- 💬 Ask me about: Spring Boot, REST, MySQL, DTOs
+- 💬 Ask me about: Network Architectures ,Spring Boot, REST, MySQL.
 
 ---
 
